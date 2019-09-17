@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs-extra": "^8.1.0",
     "live-server": "^1.2.1",
     "puppeteer": "^1.18.1",
     "request": "^2.88.0",
